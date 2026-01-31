@@ -22,6 +22,13 @@ Hand gestures are mapped to keyboard inputs to enable hands-free gameplay.
 5. Games respond in real time
 
 ---
+## Demo
+
+### Hill Climb Racing
+![Hill Climb Demo](demo/hill%20climb.gif)
+
+### Minion Rush
+![Minion Rush Demo](demo/minions%20rush.gif)
 
 ## Gesture Mapping
 
