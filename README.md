@@ -31,7 +31,7 @@ Hand gestures are mapped to keyboard inputs to enable hands-free gameplay.
 | Left Index Finger and Thumb touch | Accelerate |
 | Right Index Finger and Thumb touch | Brake |
 
-### Subway Surfers
+### Minion Rush
 | Gesture | Action |
 |------|------|
 | Index Finger Movment | Move |
